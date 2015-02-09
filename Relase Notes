@@ -1,0 +1,7 @@
+My most important changes to the old pifm code are:
+- ppM frequency correction, deviation, pre-emphasys, output power settings by command-line parameters
+- frequency synthesis using not only the fractional PLL but also the "DMA modulation",
+- switch output off when exiting,
+- sinewave tone for ctcss applications etc.
+- correct correlation between deviation, center frequency and sampling rate
+- other minor changes...
